@@ -92,6 +92,7 @@ h1 {
 #masthead {
   border-bottom: 1px solid #dddddd;
   text-align: right;
+
 }
 
 #masthead h4 a {
@@ -102,10 +103,12 @@ h1 {
 header {
   border-bottom: 3px solid #000;
   margin-bottom: 1em;
+
 }
 
 header img {
   margin-bottom: 14px;
+
 }
 
 footer {
@@ -140,6 +143,8 @@ p.footer {
   text-transform: uppercase;
 }
 
+
+}
 .bio h3 {
   border-top: 1px solid #dddddd;
   margin-top: 1em;
@@ -158,7 +163,7 @@ a {
 
 a:hover {
   text-decoration: none;
-  color: #000000;
+  color: #EF4223;
 }
 
 @media (max-width: 700px) {
